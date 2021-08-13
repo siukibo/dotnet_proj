@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "ShopDb": "Server=DESKTOP-EULUHOC;Database=1Shop;Trusted_Connection=True;"
+  }
+}
